@@ -22,6 +22,8 @@ I am ex professional volleyball player who is looking for first commercial expie
 * Web Designing Course part II - SASS, JS, Bootstrap
 ## COURSES
 * Individual Course - MANUAL TESTER - Waldemar Szafraniec
+* Web Designing Course part I - HTML, CSS - Mateusz Maj
+* Web Designing Course part II - SASS, JS, Bootstrap - Mateusz Maj
 ## RECOMENDED BLOGS
 * wyszkolewas.com.pl
 * testerzy.pl
