@@ -17,7 +17,7 @@ I am ex professional volleyball player who is looking for first commercial expie
 * SASS
 * BOOTSTRAP
 ## CERTIFICATES
-* Individual Course - MANUAL TESTER 24.05.2022
+* Individual Course - MANUAL TESTER
 * Web Designing Course part I - HTML, CSS 
 * Web Designing Course part II - SASS, JS, Bootstrap
 ## COURSES
